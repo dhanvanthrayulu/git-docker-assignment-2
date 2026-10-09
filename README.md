@@ -8,4 +8,4 @@ The application listens on port 8000 and returns a text response when accessed o
 
 ## Verification
 
-Verify the running application with curl using port 8000.
+Verify the running application with curl or in a web browser using port 8000.
